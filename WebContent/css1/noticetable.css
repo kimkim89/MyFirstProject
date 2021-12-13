@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+article h1 {
+    font-family: "Times New Roman";
+    font-size: 45px;
+    color: #CCC;
+    margin: 20px 0;
+    font-weight: normal;
+    
+article {
+    float: right;
+    width: 800px;
+    padding-right: 30px;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: -85px 600px 0px 0;

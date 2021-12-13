@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="2020.06.08(최종완성본).Web_Project_JaeinKim">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
+        <property name="context-root" value="2020.06.08(최종완성본).Web_Project_JaeinKim"/>
+        <property name="java-output-path" value="/2020.06.08(최종완성본).Web_Project_JaeinKim/build/classes"/>
+    </wb-module>
+</project-modules>
